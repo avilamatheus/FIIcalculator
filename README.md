@@ -1,0 +1,6 @@
+During this year I became very interested in the stock market, I read two books about it, watched several videos on YouTube and became especially interested in REITs (FIIs on the Brazilian stock exchange).
+FIIs are a type of Investment Fund that invest in real estate projects, such as shopping malls, hospitals and commercial buildings or related assets, such as CRIs. By acquiring shares of FIIs you become one of the “owners” of this property, receiving the rents as profit,
+and this income is exempt from Income Tax. That said, I created this program with the idea of calculating the reinvestment of these dividends in the fund's own shares. The user will inform to the program: the FII name; the reinvestment percentage; the initial investment amount; the fund price; 
+the average amount of dividends that the fund pays per share; monthly contributions (they are optional, can be zero if the user prefers); 
+the amount of time (in years) that will be used in simulating the reinvestments and finally the user will choose if he wants to see the calculation month by month.
+Also, my objective with this program was to show the "power" of the compound interest in long term, as one of the keys of success in investments is patience.
